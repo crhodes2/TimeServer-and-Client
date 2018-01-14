@@ -1,0 +1,6 @@
+c:\users\christian rhodes\documents\visual studio 2017\Projects\Time Client\bin\Debug\Time Client.exe.config
+c:\users\christian rhodes\documents\visual studio 2017\Projects\Time Client\bin\Debug\Time Client.exe
+c:\users\christian rhodes\documents\visual studio 2017\Projects\Time Client\bin\Debug\Time Client.pdb
+c:\users\christian rhodes\documents\visual studio 2017\Projects\Time Client\obj\Debug\Time Client.exe
+c:\users\christian rhodes\documents\visual studio 2017\Projects\Time Client\obj\Debug\Time Client.pdb
+c:\users\christian rhodes\documents\visual studio 2017\Projects\Time Client\obj\Debug\Time Client.csprojResolveAssemblyReference.cache

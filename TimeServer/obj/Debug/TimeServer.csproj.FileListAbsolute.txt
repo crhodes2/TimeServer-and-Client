@@ -1,0 +1,9 @@
+c:\users\christian rhodes\documents\visual studio 2017\Projects\TimeServer\bin\Debug\TimeServer.exe.config
+c:\users\christian rhodes\documents\visual studio 2017\Projects\TimeServer\bin\Debug\TimeServer.exe
+c:\users\christian rhodes\documents\visual studio 2017\Projects\TimeServer\bin\Debug\TimeServer.pdb
+c:\users\christian rhodes\documents\visual studio 2017\Projects\TimeServer\obj\Debug\TimeServer.csprojResolveAssemblyReference.cache
+c:\users\christian rhodes\documents\visual studio 2017\Projects\TimeServer\obj\Debug\TimeServer.exe
+c:\users\christian rhodes\documents\visual studio 2017\Projects\TimeServer\obj\Debug\TimeServer.pdb
+C:\Users\Christian Rhodes\Documents\Visual Studio 2017\Projects\TimeServer\bin\Debug\Time Client.exe
+C:\Users\Christian Rhodes\Documents\Visual Studio 2017\Projects\TimeServer\bin\Debug\Time Client.pdb
+C:\Users\Christian Rhodes\Documents\Visual Studio 2017\Projects\TimeServer\bin\Debug\Time Client.exe.config
